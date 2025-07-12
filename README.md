@@ -1,10 +1,9 @@
 <h1>Hi, I'm Damilola! <br/><a href="https://www.linkedin.com/in/damilola-kehinde-soc-analyst-penetration-tester-cybersecurity-engineer/">Cybersecurity Engineer, Soc analyst, Red Teamer</a></h1>
 
-<h2><img width="207" height="148" alt="image" src="https://github.com/user-attachments/assets/78a06eed-9302-4415-9a50-2f5aefc71423" />
- Red Team Projects:</h2>
- - https://github.com/Gurlda/Windows-API
-
-
+<h6><img width="229" height="220" alt="image" src="https://github.com/user-attachments/assets/4c69f34a-a427-4fb2-bf49-f6fa45fc1fd6" /></h6>
+<h2>Red Team Projects:</h2> 
+- https://github.com/Gurlda/Windows-API
+ 
 
 <h2><img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/89f60d37-9e38-4a97-87b4-5c4796d88068" />
 SOC Projects: </h2>
